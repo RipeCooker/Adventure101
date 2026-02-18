@@ -1,1 +1,1 @@
-This is my game
+Go on a Amazing adventure is this text based game
